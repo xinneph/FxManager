@@ -4,8 +4,10 @@
 /.idea/libraries
 .DS_Store
 /build
+*app.iml
 
 .idea
 FxMng.iml
-app/app.iml
 gradle.properties
+*~
+
