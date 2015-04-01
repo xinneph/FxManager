@@ -7,4 +7,5 @@
 
 .idea
 FxMng.iml
+app/app.iml
 gradle.properties
